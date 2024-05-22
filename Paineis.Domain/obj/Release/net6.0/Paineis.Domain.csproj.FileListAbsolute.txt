@@ -1,0 +1,13 @@
+C:\www\api-paineis-vr\Paineis.Domain\bin\Release\net6.0\Paineis.Domain.deps.json
+C:\www\api-paineis-vr\Paineis.Domain\bin\Release\net6.0\Paineis.Domain.dll
+C:\www\api-paineis-vr\Paineis.Domain\bin\Release\net6.0\Paineis.Domain.pdb
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\Paineis.Domain.csproj.AssemblyReference.cache
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\Paineis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\Paineis.Domain.AssemblyInfoInputs.cache
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\Paineis.Domain.AssemblyInfo.cs
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\Paineis.Domain.csproj.CoreCompileInputs.cache
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\Paineis.Domain.sourcelink.json
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\Paineis.Domain.dll
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\refint\Paineis.Domain.dll
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\Paineis.Domain.pdb
+C:\www\api-paineis-vr\Paineis.Domain\obj\Release\net6.0\ref\Paineis.Domain.dll

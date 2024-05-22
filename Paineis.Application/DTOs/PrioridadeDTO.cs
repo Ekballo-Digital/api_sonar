@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Paineis.Application.DTOs
+{
+    public class PrioridadeDTO
+    {
+        [Required(ErrorMessage = "Este campo é obrigatorio")]
+        public int CodigoPrioridade { get; set; }
+        [Required(ErrorMessage = "Este campo é obrigatorio")]
+        public string NomePrioridade { get; set; } = null!;
+    }
+}

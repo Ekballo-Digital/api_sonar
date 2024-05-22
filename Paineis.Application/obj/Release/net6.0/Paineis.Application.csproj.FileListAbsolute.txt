@@ -1,0 +1,16 @@
+C:\www\api-paineis-vr\Paineis.Application\bin\Release\net6.0\Paineis.Application.deps.json
+C:\www\api-paineis-vr\Paineis.Application\bin\Release\net6.0\Paineis.Application.dll
+C:\www\api-paineis-vr\Paineis.Application\bin\Release\net6.0\Paineis.Application.pdb
+C:\www\api-paineis-vr\Paineis.Application\bin\Release\net6.0\Paineis.Domain.dll
+C:\www\api-paineis-vr\Paineis.Application\bin\Release\net6.0\Paineis.Domain.pdb
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.csproj.AssemblyReference.cache
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.AssemblyInfoInputs.cache
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.AssemblyInfo.cs
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.csproj.CoreCompileInputs.cache
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.sourcelink.json
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.csproj.CopyComplete
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.dll
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\refint\Paineis.Application.dll
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\Paineis.Application.pdb
+C:\www\api-paineis-vr\Paineis.Application\obj\Release\net6.0\ref\Paineis.Application.dll
